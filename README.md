@@ -1,0 +1,2 @@
+# HW-6-GiphyAPI
+This Project has buttons that are created dynamically from an array. Pressing the buttons will call the API and will display ten still GIF's. Once a GIF is pressed the GIF will play and when clicked a second time the GIF will stop playing. Also the user can create an unlimited number of buttons by entering the name of a movie title and after the enter button is click a new button is created and label the movie title by the same title entered by the user. 
